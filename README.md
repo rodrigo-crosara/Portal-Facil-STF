@@ -1,8 +1,8 @@
-# Reformulação do Conteúdo do STF (stf-content-reformulation)
+# Reformulação do Conteúdo do STF "Código-Fonte"
 
 ## Descrição
 
-Este repositório contém páginas em HTML, CSS e Bootstrap que reformulam o conteúdo do portal.stf.jus.br. Ele serve como um backup para essas páginas e permite o gerenciamento de diferentes versões do conteúdo.
+Este repositório contém páginas em HTML, CSS e Bootstrap que reformulam o conteúdo do portal.stf.jus.br. Ele serve como um backup para essas páginas e permite o gerenciamento de diferentes versões do conteúdo. Os arquivos neste repositório podem ser usados para atualizar o CMS ou restaurar uma versão anterior do conteúdo do portal.
 
 ## Como usar
 
