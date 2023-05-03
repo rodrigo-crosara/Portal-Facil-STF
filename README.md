@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém páginas em HTML, CSS e Bootstrap que reformulam o conteúdo do portal.stf.jus.br. Ele serve como um backup para essas páginas e permite o gerenciamento de diferentes versões do conteúdo. Os arquivos neste repositório podem ser usados para atualizar o CMS ou restaurar uma versão anterior do conteúdo do portal.
+Este repositório contém o código-fonte em HTML, CSS e Bootstrap que reformulam o conteúdo do portal.stf.jus.br. Ele serve como um backup para essas páginas e permite o gerenciamento de diferentes versões do conteúdo. Os arquivos neste repositório podem ser usados para atualizar o CMS ou restaurar uma versão anterior do conteúdo do portal.
 
 ## Projeto Portal Fácil [SEI 926/2022]
 
