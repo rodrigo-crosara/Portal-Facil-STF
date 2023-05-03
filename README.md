@@ -8,6 +8,17 @@ Este repositório contém páginas em HTML, CSS e Bootstrap que reformulam o con
 
 Para usar este repositório, basta cloná-lo ou fazer o download dos arquivos. Em seguida, você pode abrir as páginas em um navegador para visualizá-las.
 
+## Dependências
+
+Este projeto depende das seguintes bibliotecas e frameworks:
+
+- Bootstrap v5.x
+- bootstrap.bundle.js
+- Font Awesome v5.15.4
+- jQuery v3.2.1
+
+Certifique-se de ter essas dependências instaladas antes de usar o projeto.
+
 ## Contribuindo
 
 Se você é um colaborador do STF e gostaria de contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar suas alterações por meio de um pull request.
